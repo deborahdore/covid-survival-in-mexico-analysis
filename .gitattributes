@@ -1,1 +1,2 @@
 dataset/COVID19MEXICO2020.csv filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
